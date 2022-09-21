@@ -53,10 +53,10 @@ global.packname = "⚜💔dew 𝚋oƚ ࿐ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄
 global.author = "DEW" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync(".https://i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur thumb pic
-global.log0 = fs.readFileSync(".https://i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur logo pic
-global.err4r = fs.readFileSync(".https://i.ibb.co/Ns90DT5/20220908-222109.jpg) //ur error pic
-global.thumb = fs.readFileSync(".https://i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur error pic
+global.thumb = fs.readFileSync("./i.ibb.co/Ns90DT5/20220908-222109.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['729922002'] //ur premium numbers
